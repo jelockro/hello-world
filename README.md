@@ -1,4 +1,4 @@
-# hello-world
+# udacity-forked-repos
 
-Hello, 
-I plan on committing my various programming projects here.  I am trying to complete the MIT OpencourseWare Computer Science course.  I am also working on a personalized wordpress theme for my dayjob as a chiropractor.  I have three kids, and so most of my work is done after 9:00 PM, which is not ideal.  I hope to continue my self-directed education and chronicle it here.
+This repository holds udacity created repos that I forked for various classes that I have taken from them.  
+These are repositories that I did not contribute code to.  For repositories that I did contribute to look for a repository without the work 'forked' in it.
